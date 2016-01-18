@@ -1,0 +1,28 @@
+name: Good Karma Coffee
+favicon: null
+layout_spectrum: 0.12271497375331819
+typography_spectrum: 0.436323520494625
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7234518858604133
+  lightness: 0.7181453679222614
+  saturation: 0.7675056522712111
+  rhythmicContrast: 0.761188603239134
+purpose: []
