@@ -1,20 +1,4 @@
-name: Good Karma Coffee
-favicon: null
-layout_spectrum: 0.6621
-typography_spectrum: 0.62095
-title: Good Karma Coffee Blog
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#ffffff'
@@ -22,8 +6,13 @@ color:
     - '#0b0f0e'
     - '#7a5a5b'
     - '#929a68'
-  brandStrength: 0.4375
-  lightness: 0.5625
-  saturation: 0.4375
-  rhythmicContrast: 0.5
+  brandStrength: 1
+  lightness: 0.659628
+  rhythmicContrast: 0.683277
+  saturation: 0.180743
+cta: {}
+layout_spectrum: 0.103041
+name: Good Karma Coffee
+opengraph: {}
 purpose: []
+typography_spectrum: 0.62095
